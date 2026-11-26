@@ -10,7 +10,7 @@
 | 氣象資料與 AI 助理 | 查看中央氣象署預報，並取得有資料依據的說明 | [Weather-Assistant](https://github.com/Yunyuhu/Weather-Assistant) | [開啟展示](https://yunyuhu.github.io/Weather-Assistant/) |
 | 手寫數字辨識 | 直接手寫數字，查看模型輸入與十類分數 | [AI-Vision-Demos](https://github.com/Yunyuhu/AI-Vision-Demos) | [開啟展示](https://yunyuhu.github.io/AI-Vision-Demos/) |
 
-手寫辨識已可直接操作；對話與氣象的 Pages 介面已上線，即時服務待後端設定完成。
+手寫辨識與對話／文字整理已可直接操作；氣象的 Pages 介面已上線，即時服務待後端設定完成。
 
 網頁整理版與原始 Notebook 的實作範圍分開記錄。對話展示補上獨立訪客狀態與錯誤處理；氣象展示將官方資料與 AI 說明接通；手寫辨識保留原 Dense 架構，以 NumPy 重新訓練並在瀏覽器推論。新的程式與修正不回溯視為 2024 年已完成的功能。
 
